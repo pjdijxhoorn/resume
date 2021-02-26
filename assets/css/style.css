@@ -348,8 +348,8 @@ button[type="submit"]{
 
 @media (min-width: 992px) {
     padding-top: 30px;
-    min-height:240px;
+    min-height: 240px;
     margin: 0 auto;
-    max-width:50%;
+    max-width: 50%;
 }
 
