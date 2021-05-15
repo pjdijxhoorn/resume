@@ -91,8 +91,11 @@ h4 {
 
 .inline-block {
     display: inline-block;
+    margin-right: 0;
 }
 
+.list-inline-item:not(:last-child) {
+    margin-right: 0rem;}
 
 .row-table {
     display: table;
@@ -157,6 +160,7 @@ header {
     height: 120px;
     text-align: center;
     padding: 0;
+    margin-right: 0;
 }
 
 .menuitem a {
